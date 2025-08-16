@@ -8,11 +8,11 @@ Solar System Simulation built with Python. Core simulation created in Blender, w
 ### Blender (Object and mesh creation, mesh smoothening, texture mapping, designing, etc.)
 
 ## Directory Order
-.
-├── solarSystem.blend
-├── csvFile
-│   └── planets.csv
-└── textures
-    └── [planet texture files]
+.<br>
+├── solarSystem.blend<br>
+├── csvFile<br>
+│   └── planets.csv<br>
+└── textures<br>
+    └── [planet texture files]<br>
 
 ### Note: The textures are to be mapped to the mesh objects individually, running the program repetedly may remove the textures, so make sure to save the file after applying the textures, finally to see the planetary movements you can use the 'space' button on your keyboard to 'play' and 'stop' the time!
